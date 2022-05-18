@@ -1,0 +1,4 @@
+#Tue May 17 18:26:08 EDT 2022
+base.0=D\:\\Flutter-Projects\\go_moon\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

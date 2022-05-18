@@ -1,0 +1,9 @@
+D:/Flutter-Projects/go_moon/build/windows/runner/Debug/data/icudtl.dat
+D:/Flutter-Projects/go_moon/build/windows/runner/Debug/flutter_windows.dll
+D:/Flutter-Projects/go_moon/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+D:/Flutter-Projects/go_moon/build/windows/runner/Debug/data/flutter_assets/assets/images/astro.png
+D:/Flutter-Projects/go_moon/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+D:/Flutter-Projects/go_moon/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+D:/Flutter-Projects/go_moon/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+D:/Flutter-Projects/go_moon/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+D:/Flutter-Projects/go_moon/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
